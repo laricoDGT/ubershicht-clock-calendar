@@ -4,7 +4,7 @@
 
 ## Installation:
 
-1. Move ubershicht-clock-calendar.widget to your Ubersicht widgets folder.
+1. Move clock-calendar.widget to your Ubersicht widgets folder.
 2. Enjoy!
 
 ## Customization:
